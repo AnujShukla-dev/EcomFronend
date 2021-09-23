@@ -1,0 +1,14 @@
+.app__auth{
+    margin-left:25%;
+    margin-right:25%;
+   
+}
+.app__card{
+color-interpolation-filters: blueviolet;
+align-items: center;
+}
+
+.app__auth__button{
+    color: "black";
+    background-color:#A3A4BE
+}
